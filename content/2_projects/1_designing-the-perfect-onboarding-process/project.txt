@@ -1,4 +1,4 @@
-Title: Designing the perfect onboarding process
+Title: Inglot
 
 ----
 
@@ -10,7 +10,7 @@ Duration: September 2019 - Januari 2020
 
 ----
 
-Clients: NRC
+Clients: Inglot
 
 ----
 
@@ -104,9 +104,9 @@ Text:
     {
         "attrs": {
             "guid": "/pages/projects+designing-the-perfect-onboarding-process/files/16-9-dummy.jpg",
-            "src": "http://localhost:8888/cmd-portfolio-starterkit/media/pages/projects/designing-the-perfect-onboarding-process/2572562093-1579364703/16-9-dummy.jpg",
+            "src": "http://192.168.64.2/media/pages/projects/designing-the-perfect-onboarding-process/2572562093-1583853885/16-9-dummy.jpg",
             "id": "projects/designing-the-perfect-onboarding-process/16-9-dummy.jpg",
-            "ratio": 1.7777777777777777,
+            "ratio": 1.414516129032258096032137473230250179767608642578125,
             "caption": "Caption yeah!"
         },
         "content": "",

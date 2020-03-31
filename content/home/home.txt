@@ -2,7 +2,7 @@ Title: Home
 
 ----
 
-Introductiontitle: Hello! I'm John Doe.
+Introductiontitle: <span class="wave">&#128075;</span> Hello! I'm Juliette van Stempvoort
 
 ----
 
