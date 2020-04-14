@@ -16,7 +16,11 @@ H1
     font-weight: 200;
 }    
 
-hello
+img {
+vertical-align: middle;
+border-style: none;
+border-radius: 50%;
+}
 
 span.wave {
     animation-name: wave-animation;
