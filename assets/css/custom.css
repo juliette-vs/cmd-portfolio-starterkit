@@ -23,7 +23,7 @@ H1
 }
 
 .border-top {
-    border-top: 0px
+    border-top: 0px solid #dee2e6!important;
     PADDING-TOP: 25%;
 }
 
