@@ -15,6 +15,8 @@
 
   <title><?= $site->title() ?> | <?= $page->title() ?></title>
 
+  <a href="projects" class="btn btn-primary" role="button" aria-pressed="true">Mijn cases</a>
+
 </head>
 <body>
 
