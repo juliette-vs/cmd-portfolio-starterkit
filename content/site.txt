@@ -2,22 +2,20 @@ Title: Juliette van Stempvoort
 
 ----
 
-Logo: - robinsinke.jpeg
+Logo: 
 
 ----
 
-Email: r.sinke@hr.nl
+Email: juliettevanstempvoort@hotmail.com
 
 ----
 
 Social:
 
 - 
-  platform: Twitter
-  url: https://twitter.com/robzooi
-- 
   platform: LinkedIn
-  url: https://www.linkedin.com/in/robinsinke/
+  url: >
+    https://www.linkedin.com/in/juliettevanstempvoort/
 
 ----
 

@@ -2,8 +2,8 @@ Title: Home
 
 ----
 
-Introductiontitle: <span class="wave">&#128075;</span> Hello! I'm Juliette van Stempvoort
+Introductiontitle: <span class="wave">&#128075;</span> Hoi! Leuk je te ontmoeten!
 
 ----
 
-Introductiontext: Currently I am looking for an internship where I can develop my skills as a third year Communication and Multimediadesign student.
+Introductiontext: Momenteel ben ik op zoek naar een stage waar ik mijn vaardigheden kan ontwikkelen als derdejaars student Communicatie en Multimediadesign.
