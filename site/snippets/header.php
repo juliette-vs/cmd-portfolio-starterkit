@@ -24,9 +24,7 @@
         <img src="<?= $site->image()->url() ?>" width="48px" height="48px" alt="<?= $site->image()->alt() ?>" class="rounded-circle"/>
         <?= $site->title() ?>
       </a>
-      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-      </button>
+      
       <div class="collapse navbar-collapse" id="navbarNav">
         <ul class="navbar-nav ml-auto">
           <?php foreach ($site->children()->listed() as $item): ?>
