@@ -2,11 +2,11 @@ Title: Senz Therapie
 
 ----
 
-Roles: Visual Design, Ideation
+Roles: Intern Graphic Design at Steets
 
 ----
 
-Duration: Senz Therapy
+Duration: Juni 2018
 
 ----
 
@@ -14,11 +14,68 @@ Clients: Rotterdam University of Applied Sciences
 
 ----
 
-Deliverables: Doodles, Illustrations
+Deliverables: Corporate Identity
 
 ----
 
-Text: 
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "<strong>Senz, Corporate Identity</strong>",
+        "id": "_lRYiN9ByK",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Development of a corporate identity for a practice psychosocial support 'Senz'.<br>Senz focuses on two areas:Personal coaching &amp; Business market",
+        "id": "_d9ttvrkmr",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "For the business part apply subtheme\u2019s like absenteeism, work structure, residence and assertiveness. Personal coaching is focused more on life issues.",
+        "id": "_9kLj6nX1t",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Senz wants to communicate through themes:",
+        "id": "_LVRUEDaS1",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Living, with Senz: therapy sessions to learn about yourself and no longer have to adapt to others",
+        "id": "_QV6mYJaPL",
+        "type": "ul"
+    },
+    {
+        "attrs": [],
+        "content": "Together, with Senz: relationships, marriage",
+        "id": "_FzhOy9IZv",
+        "type": "ul"
+    },
+    {
+        "attrs": [],
+        "content": "Energy, with Senz: work-related, burn-outs",
+        "id": "_lQgOmEtCo",
+        "type": "ul"
+    },
+    {
+        "attrs": [],
+        "content": "Strong, with Senz: discover your biggest energy consumers and take control of it.",
+        "id": "_Clccs6kUJ",
+        "type": "ul"
+    },
+    {
+        "attrs": [],
+        "content": "Senz works from a holistic image of man (spirit-soul-body).I\u2019ve tried to process that in the image element of the logo: an half open talking cloud surrounding the three main factors. The talking cloud is half open; this symbolizes the accessibility to discuss all theme\u2019s of Senz. Holistic (holism) = everything is inextricably linked. I translated that by connecting the e + n in the typography. The logo is both modern and sleek and soft and inviting. The orange color contrasts with the blue-black color which the customer found very appealing and I myself find the appropriate colors for the logo. I have designed separate image elements for the different themes: life, together, energy and strong. These can optionally be applied to various expressions, such as the website, poster, visiting card etc.",
+        "id": "_hmh8n6KxE",
+        "type": "paragraph"
+    }
+]
 
 ----
 

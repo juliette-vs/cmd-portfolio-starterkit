@@ -26,7 +26,7 @@
       
       <div class="collapse navbar-collapse" id="navbarNav">
         <ul class="navbar-nav ml-auto">
-          <?php foreach ($site->children()->listed() as $item): ?>
+          <?php foreach ($site->children()->listed(2) as $item): ?>
           <li class="nav-item">
             <a href="<?= $item->url(); ?>" class="nav-link"><?= $item->title(); ?></a>
           </li>

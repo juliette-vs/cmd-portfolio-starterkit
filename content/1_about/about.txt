@@ -7,13 +7,55 @@ Text:
 [
     {
         "attrs": [],
-        "content": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.",
-        "id": "_g1nXSBng0",
+        "content": "<strong>Nice to meet you!</strong>",
+        "id": "_qebbx0we0",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn\u2019t listen. She packed her seven versalia, put her initial into the belt and made herself on the way. When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then she continued her way. On her way she met a copy.",
+        "content": "My name is Juli\u00ebtte van Stempvoort and I am a Graphic Designer. My interest for design started at an early age. I have always enjoyed being creative and I developed this over the years. In my portfolio you can find various assignments. I graduated as a graphic designer at the Graphic School of Arts in Utrecht. My course of study was graphic concept. I am currently in my first year of my study Communication and Multimedia design which is based in Rotterdam. I was drawn to this study because I wanted to learn more about the psychological depths of design and concepting.",
+        "id": "_D2xNp3PtY",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "After I gratuate I'd like to work for an international creative agency as Art Director or I'd like proceed working as self-employed at my own graphic design company that I started at the beginning of this year! Between school hours I'm working on my own business with the goal to be self-supporting. Interested in working with me? Please fill in the form below :)",
+        "id": "_Q2OYlq7c2",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_vjxgi29kx",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Study</strong>",
+        "id": "_rPwtOADTk",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "I am currently studying Communication and Multimedia design in Rotterdam. What I am learning here is to design meaningful interactive products and services for the human: website, app, interactive installation, to full experience. Before I start designing I research the user needs of the organization. I continuously check with the user for the design and doing this involve patients also include location. Designing is after all: making prototypes, testing, failure, redesigning, testing, adjusting, etc. I'm busy sketching, researching, building or researching outside the door. I'm learning to work based on the interests and perception of users and clients. An active attitude is a prerequisite for the design process at Communication and Multimedia Design. As well as a healthy dose of curiosity, courage and independence to deliver high-quality work. In addition, I learn to look critically at my work and actions.",
+        "id": "_FeYZsFJa1",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Right now I'm in my first year where we focus on the elderly dying to a lesser extent physically experiencing mental health problems and needing informal care. The client is looking for smart, new technology applications that allow elderly people, caregivers, to live at home for longer. The CMD course challenges you to use your knowledge, creativity and design talent for interactive products and services that improve the life and environment of users who are more comfortable with thorns.",
+        "id": "_GZIZ0TJ7L",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Interested to see some projects I did during my study? Check out my work!</strong>",
+        "id": "_C6PLa2Vrs",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
         "id": "_uRKO7ni0o",
         "type": "paragraph"
     }

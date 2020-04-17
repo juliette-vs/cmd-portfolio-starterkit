@@ -1,20 +1,20 @@
-Title: Inglot
+Title: Alpe d'huzes
 
 ----
 
-Roles: Interaction design, visual design, usability research & testing
+Roles: Student Graphic Design at GLU
 
 ----
 
-Duration: September 2019 - Januari 2020
+Duration: September 2017 - Januari 2020
 
 ----
 
-Clients: Inglot
+Clients: Alpe d'Huzes
 
 ----
 
-Deliverables: Empathymap, Wireframes, Persona's
+Deliverables: Crossmedia Magazine
 
 ----
 
@@ -23,118 +23,27 @@ Text:
 [
     {
         "attrs": [],
-        "content": "Heading 1",
-        "id": "_8mgii7n73",
-        "type": "h1"
-    },
-    {
-        "attrs": [],
-        "content": "Heading 2",
-        "id": "_mvbw9p8m5",
-        "type": "h2"
-    },
-    {
-        "attrs": [],
-        "content": "Heading 3",
-        "id": "_yxpdwjzuk",
-        "type": "h3"
-    },
-    {
-        "attrs": [],
-        "content": "Bullet list",
-        "id": "_kv7cm8v9d",
-        "type": "ul"
-    },
-    {
-        "attrs": {
-            "indent": 0
-        },
-        "content": "Bullet list",
-        "id": "_08ifj03rw",
-        "type": "ul"
-    },
-    {
-        "attrs": {
-            "indent": 0
-        },
-        "content": "Bullet list",
-        "id": "_kjtk0ujrw",
-        "type": "ul"
-    },
-    {
-        "attrs": [],
-        "content": "This is a quote, don't you think?",
-        "id": "_cwnjhuy68",
-        "type": "blockquote"
-    },
-    {
-        "attrs": [],
-        "content": "Numbered list",
-        "id": "_nfbhfl436",
-        "type": "ol"
-    },
-    {
-        "attrs": {
-            "indent": 0
-        },
-        "content": "Numbered list",
-        "id": "_03nv0yced",
-        "type": "ol"
-    },
-    {
-        "attrs": {
-            "indent": 0
-        },
-        "content": "Numbered list",
-        "id": "_7rfdykoe8",
-        "type": "ol"
-    },
-    {
-        "attrs": [],
-        "content": "",
-        "id": "_n69m23272",
-        "type": "hr"
-    },
-    {
-        "attrs": [],
-        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-        "id": "_5o4r373i6",
+        "content": "<strong>Alpe d'Huez, Crossmedia Magazine</strong>",
+        "id": "_dEuB4SLxV",
         "type": "paragraph"
     },
     {
-        "attrs": {
-            "guid": "/pages/projects+designing-the-perfect-onboarding-process/files/16-9-dummy.jpg",
-            "src": "http://192.168.64.2/media/pages/projects/designing-the-perfect-onboarding-process/2572562093-1583853885/16-9-dummy.jpg",
-            "id": "projects/designing-the-perfect-onboarding-process/16-9-dummy.jpg",
-            "ratio": 1.414516129032258096032137473230250179767608642578125,
-            "caption": "Caption yeah!"
-        },
-        "content": "",
-        "id": "_u394bdt1a",
-        "type": "image"
-    },
-    {
-        "attrs": {
-            "src": "https://youtu.be/Qb7dPpDDgq8",
-            "caption": "Caption yeah!"
-        },
-        "content": "",
-        "id": "_k2lm3y32f",
-        "type": "video"
+        "attrs": [],
+        "content": "Alpe d'Huez is an good cause in which participants run, walk or cycling under the motto 'Giving up is not an option'. The proceeds will support researching cancer, with the goal to get the disease under control, so that in the future no one dies from cancer.",
+        "id": "_je7Kuie8m",
+        "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "I don't know what this is?",
-        "id": "_r7s0ov601",
-        "type": "kirbytext"
+        "content": "Through school we won the pitch for the design of an online magazine of Alpe d'Huez. From May 31 to June 4, we published six magazines from which the participants and at home Alpe d'Huez got to see HuZes photos, could read columns and were able to discover what happened a day on the mountain. The magazine is interactive and this is realized in cooperation with Xerox. All 1300 participants were received a printed summary magazine. We also gave an interview for dutch Radio 2 to promote the magazine, the Graphic School of Arts and Buro Toob. The views on the Alpe d'Huez magazine increased up to 100.000 visitors.",
+        "id": "_LDa2TxJfl",
+        "type": "paragraph"
     },
     {
-        "attrs": {
-            "language": "css"
-        },
-        "content": "And what should this be?",
-        "id": "_ymeh8uuyc",
-        "type": "code"
+        "attrs": [],
+        "content": "The daily online magazine was made interactive by the program Freeflow Core Digital Publisher and was promoted on Drupa 2016 in the Xerox booth. The magazine was shown on an iPad.",
+        "id": "_rfJYBBmDI",
+        "type": "paragraph"
     }
 ]
 
