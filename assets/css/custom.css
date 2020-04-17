@@ -24,7 +24,6 @@ body  {
     padding: .5rem 1rem 5rem;
 }
 
-
 H1 
 {  color: blue;
     font-weight: 200;
@@ -48,6 +47,13 @@ span.wave {
     transform-origin: 70% 70%;
     display: inline-block;
   }
+
+  .btn-primary {
+    color: #0062cc;
+    background-color: #007bff00;
+    border-color: #007bff;
+    border-radius: 20px;
+}
   
   @keyframes wave-animation {
       0% { transform: rotate(  0.0deg) }
