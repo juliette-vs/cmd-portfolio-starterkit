@@ -1,0 +1,48 @@
+Title: BLOG
+
+----
+
+Roles: Student CMD
+
+----
+
+Duration: 
+
+----
+
+Clients: 
+
+----
+
+Deliverables: Kirby website
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "Om mezelf te blijven ontwikkelen heb ik de afgelopen periode heb ik twee<br>keuzevakken gevolgd: Creative Technologies en Portfolio. Ik heb hiervoor gekozen<br>omdat ik nog erg vervreemd van programmeren en interactie installaties. Wanneer<br>ik iets niet begrijp en anderen wel, heb ik snel de neiging om de handdoek in de<br>ring te gooien. Bij mij lag de uitdaging om deze keer door te zetten.",
+        "id": "_v75b0xtwo",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Voor iemand die weinig kennis heeft van HTML/CSS vond ik de lesstof wel erg snel gaan. Met hulp van de docenten en mede-studenten is het mij wel gelukt om dit bij te houden. Ik begrijp nu meer van coderen en ik vind het leuk om gelijk het resultaat te zien. Door telkens kleine aanpassingen te doen ben ik het coderen beter gaan begrijpen.",
+        "id": "_W8TEwtMTz",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Ik zou mijn eigen portfolio zelf niet bouwen met HTML en CSS omdat ik nog niet zo geavanceerd ben ik mijn portfolio wel graag interactief wil maken. Ik vind het wel fijn dat ik de 'taal' van het coderen nu beter begrijp. Mocht ik ooit iets moeten aanpassen zou ik dat wel kunnen.",
+        "id": "_oxjJPnaep",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Ik wil wel verder gaan met het maken van mijn website in Portfolio zodat ik hiermee door kan oefenen en het niet verleer.",
+        "id": "_vGX48h7AD",
+        "type": "paragraph"
+    }
+]
